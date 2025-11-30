@@ -18,7 +18,7 @@ A clean, well-commented, single-file implementation of classic sorting algorithm
 ## How to Run
 
 ```bash
-git clone https://github.com/ТВІЙ_НІК/sorting-algorithms-c.git
+git clone https://github.com/noxe-git/A-basic-sorts-algorithms-on-C.git
 cd sorting-algorithms-c
 gcc -std=c11 -Wall -Wextra -pedantic -O2 sort_algorithms.c -o sort
 ./sort
