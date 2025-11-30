@@ -17,7 +17,7 @@ A clean, well-commented, single-file implementation of classic sorting algorithm
 ```bash
 git clone https://github.com/ТВІЙ_НІК/sorting-algorithms-c.git
 cd sorting-algorithms-c
-gcc -std=c11 -Wall -Wextra -pedantic -O2 sort_algorithms.c -o sort
+gcc -std=c11 -Wall -Wextra -pedantic -O2 sort_algorithms.c -o sort```
 ./sort
 #Then choose an algorithm by entering a number from 1 to 5.
 ## Example Output
